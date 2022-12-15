@@ -1,14 +1,13 @@
-# Hello! :wave: Nice to Having You Here
+# Hello Friend! :wave: Nice to Having You Here
 
-### On the top there are two different Directories as the name suggest the first one is for Data Science Journey and the other one for Web development
+### As of now what I have achived in my Web development Journey, I'm showing off here through this Repo
 
-### As of now what I have achived in my Web development Journey, lets try to understand through this visualization
 
-## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Recent activity [![Time period](https://images.repography.com/31495716/Pcr-dev/Pratap-s-portfolio/recent-activity/d1becd0687472eea7fb9512dafc27b8a_badge.svg)](https://repography.com)
-[![Timeline graph](https://images.repography.com/31495716/Pcr-dev/Pratap-s-portfolio/recent-activity/d1becd0687472eea7fb9512dafc27b8a_timeline.svg)](https://github.com/Pcr-dev/Pratap-s-portfolio/commits)
-[![Issue status graph](https://images.repography.com/31495716/Pcr-dev/Pratap-s-portfolio/recent-activity/d1becd0687472eea7fb9512dafc27b8a_issues.svg)](https://github.com/Pcr-dev/Pratap-s-portfolio/issues)
-[![Pull request status graph](https://images.repography.com/31495716/Pcr-dev/Pratap-s-portfolio/recent-activity/d1becd0687472eea7fb9512dafc27b8a_prs.svg)](https://github.com/Pcr-dev/Pratap-s-portfolio/pulls)
-[![Trending topics](https://images.repography.com/31495716/Pcr-dev/Pratap-s-portfolio/recent-activity/d1becd0687472eea7fb9512dafc27b8a_words.svg)](https://github.com/Pcr-dev/Pratap-s-portfolio/commits)
-[![Top contributors](https://images.repography.com/31495716/Pcr-dev/Pratap-s-portfolio/recent-activity/d1becd0687472eea7fb9512dafc27b8a_users.svg)](https://github.com/Pcr-dev/Pratap-s-portfolio/graphs/contributors)
-[![Activity map](https://images.repography.com/31495716/Pcr-dev/Pratap-s-portfolio/recent-activity/d1becd0687472eea7fb9512dafc27b8a_map.svg)](https://github.com/Pcr-dev/Pratap-s-portfolio/commits)
+
+## Recent activity [![Time period](https://images.repography.com/31495716/Pcr-dev/Web-Development-Journey/recent-activity/Xr7w_7vzGrw6gS4XeW5AtWY6hm66rEQKe2cs89EZ4AA_badge.svg)](https://repography.com)
+[![Timeline graph](https://images.repography.com/31495716/Pcr-dev/Web-Development-Journey/recent-activity/Xr7w_7vzGrw6gS4XeW5AtWY6hm66rEQKe2cs89EZ4AA_timeline.svg)](https://github.com/Pcr-dev/Web-Development-Journey/commits)
+[![Pull request status graph](https://images.repography.com/31495716/Pcr-dev/Web-Development-Journey/recent-activity/Xr7w_7vzGrw6gS4XeW5AtWY6hm66rEQKe2cs89EZ4AA_prs.svg)](https://github.com/Pcr-dev/Web-Development-Journey/pulls)
+[![Trending topics](https://images.repography.com/31495716/Pcr-dev/Web-Development-Journey/recent-activity/Xr7w_7vzGrw6gS4XeW5AtWY6hm66rEQKe2cs89EZ4AA_words.svg)](https://github.com/Pcr-dev/Web-Development-Journey/commits)
+[![Top contributors](https://images.repography.com/31495716/Pcr-dev/Web-Development-Journey/recent-activity/Xr7w_7vzGrw6gS4XeW5AtWY6hm66rEQKe2cs89EZ4AA_users.svg)](https://github.com/Pcr-dev/Web-Development-Journey/graphs/contributors)
+
 

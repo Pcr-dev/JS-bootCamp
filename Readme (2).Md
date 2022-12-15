@@ -1,10 +1,12 @@
 # Hello World! Pratap started stepping-up with You
 
-### Lets read some handy dandy tech articles related to Web technologies
+### I personally learnt a lot form internet community now my responsibility to add something for others 
+### Found a way of contribution as writting some handy dandy tech articles on Web technologies lets read some of them as moving forward.
 
 #### Question popping :confused: - How deep we are gonna dive !
 
-My Friend just something for You **_live in loop, have patience and Stay Motivated_**
+#### My Friend just something for You 
+### **_" live in loop, have patience and Stay Motivated "_**
 
 ### Love to see you there
 
