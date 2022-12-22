@@ -10,7 +10,7 @@
 
 ### Love to see you there
 
-- Here is the fast one - [Journey Towards a Web developer](https://medium.com/@pratapchandrarout79/journey-towards-a-web-developer-c16297537070) 10 minutes read on [Medium]()
+- Here is the fast one - [Journey Towards a Web developer](https://medium.com/@pratapchandrarout79/journey-towards-a-web-developer-c16297537070) 10 minutes read on [Medium](https://medium.com/@pratapchandrarout79/journey-towards-a-web-developer-c16297537070)
 
 - Beginners [HTML]() 10 minutes read on [dev.to]()
 
